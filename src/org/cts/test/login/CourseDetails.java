@@ -6,6 +6,7 @@ public class CourseDetails {
     }
     private void oracleCourse() {
     	System.out.println("oracle course not started");
+        System.out.println("oracle course not started");
     	
     }
     public static void main(String[]args) {
@@ -13,6 +14,6 @@ public class CourseDetails {
     	d.javaCourse();
     	d.oracleCourse();
     }
-    
+
 }
 
