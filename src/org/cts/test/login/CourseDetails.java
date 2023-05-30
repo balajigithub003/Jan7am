@@ -12,6 +12,8 @@ public class CourseDetails {
     	CourseDetails d = new CourseDetails();
     	d.javaCourse();
     	d.oracleCourse();
+    System.out.println("balaji");
+    System.out.println("kishore");
     }
     
 }
