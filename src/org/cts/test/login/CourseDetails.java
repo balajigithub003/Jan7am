@@ -13,4 +13,6 @@ public class CourseDetails {
     	d.javaCourse();
     	d.oracleCourse();
     }
+    
 }
+
